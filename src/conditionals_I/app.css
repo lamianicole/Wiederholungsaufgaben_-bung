@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 1.7rem;
+}
+
+.result {
+    font-size: 3rem;
+    margin-top: 20px;
+}
+
+.description {
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
